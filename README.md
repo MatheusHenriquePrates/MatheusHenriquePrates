@@ -1,18 +1,22 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:39d353&height=180&section=header&text=matheus%40mentor-ia&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=full-stack%20%C2%B7%20infra%20linux%20%C2%B7%20IA%20aplicada&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" alt="banner" /></p>p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:39d353&height=180&section=header&text=matheus%40mentor-ia&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=full-stack%20%C2%B7%20infra%20linux%20%C2%B7%20IA%20aplicada&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" alt="banner" />
+</p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=39D353&center=true&vCenter=true&width=620&height=40&lines=%24+whoami;%24+dev+full-stack+%2B+infra+linux;%24+construindo+agentes+de+IA;%24+mantendo+sistemas+24%2F7" alt="typing" /></p>p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=39D353&center=true&vCenter=true&width=620&height=40&lines=%24+whoami;%24+dev+full-stack+%2B+infra+linux;%24+construindo+agentes+de+IA;%24+mantendo+sistemas+24%2F7" alt="typing" />
+</p>
 
 ```bash
 matheus@mentor-ia:~$ cat sobre.txt
 ```
 
-Trabalho com desenvolvimento full-stack e operacao de infraestrutura.
-Hoje na Mentor IA mantenho servidores Linux em producao rodando CRMs
-multi-tenant, agentes de IA e integracoes com WhatsApp pra dezenas
+Trabalho com desenvolvimento full-stack e operação de infraestrutura.
+Hoje na Mentor IA mantenho servidores Linux em produção rodando CRMs
+multi-tenant, agentes de IA e integrações com WhatsApp pra dezenas
 de empresas.
 
-Antes disso passei por sistemas em .NET, automacao CUPS em rede e
-projetos proprios de PDV e gestao escolar.
+Antes disso passei por sistemas em .NET, automação CUPS em rede e
+projetos próprios de PDV e gestão escolar.
 
 ```bash
 matheus@mentor-ia:~$ ls stack/
@@ -62,7 +66,7 @@ matheus@mentor-ia:~$ stats --user matheus
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenriquePrates&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&langs_count=8" height="170" />
   <img src="https://streak-stats.demolab.com?user=MatheusHenriquePrates&theme=github-dark&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353" height="170" />
-</p>p>
+</p>
 
 ```bash
 matheus@mentor-ia:~$ contact
@@ -75,6 +79,6 @@ matheus@mentor-ia:~$ contact
 matheus@mentor-ia:~$ _
 ```
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:0d1117&height=80&section=footer&animation=fadeIn" alt="footer" /></p>p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:0d1117&height=80&section=footer&animation=fadeIn" alt="footer" />
 </p>
