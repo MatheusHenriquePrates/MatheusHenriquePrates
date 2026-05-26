@@ -1,14 +1,14 @@
-```
-matheus@mentor-ia:~$ whoami
-```
+<div align="center">
 
-# Matheus Henrique Prates
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:39d353&height=180&section=header&text=matheus%40mentor-ia&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=full-stack%20%C2%B7%20infra%20linux%20%C2%B7%20IA%20aplicada&descSize=16&descAlignY=68&descAlign=50&animation=fadeIn" alt="banner" />
 
-Dev full-stack. Trabalho com Node, TypeScript, .NET e infra Linux. Hoje na Mentor IA mexendo com agentes de IA e sistemas multi-tenant.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=39D353&center=true&vCenter=true&width=620&height=40&lines=%24+whoami;%24+dev+full-stack+%2B+infra+linux;%24+construindo+agentes+de+IA;%24+mantendo+sistemas+24%2F7" alt="typing" />
 
----
+</div>
 
-```
+<br/>
+
+```bash
 matheus@mentor-ia:~$ cat sobre.txt
 ```
 
@@ -20,58 +20,153 @@ de empresas.
 Antes disso passei por sistemas em .NET, automação CUPS em rede e
 projetos próprios de PDV e gestão escolar.
 
----
+<br/>
 
-```
+```bash
 matheus@mentor-ia:~$ ls stack/
 ```
 
 **backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-1a1a1a?style=flat-square&logo=fastify&logoColor=white)
-![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-1a1a1a?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=39d353)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39d353)
+![Fastify](https://img.shields.io/badge/Fastify-0d1117?style=for-the-badge&logo=fastify&logoColor=39d353)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=39d353)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=39d353)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39d353)
 
 **frontend**
 
-![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=39d353)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=39d353)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=39d353)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=39d353)
 
 **dados**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-1a1a1a?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-1a1a1a?style=flat-square&logo=duckdb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=39d353)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=39d353)
+![MSSQL](https://img.shields.io/badge/MSSQL-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=39d353)
+![DuckDB](https://img.shields.io/badge/DuckDB-0d1117?style=for-the-badge&logo=duckdb&logoColor=39d353)
 
 **infra**
 
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a1a?style=flat-square&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-1a1a1a?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-1a1a1a?style=flat-square&logo=wireguard&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39d353)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=39d353)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=39d353)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39d353)
+![WireGuard](https://img.shields.io/badge/WireGuard-0d1117?style=for-the-badge&logo=wireguard&logoColor=39d353)
 
 **ia**
 
-![Claude](https://img.shields.io/badge/Claude-1a1a1a?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1a1a1a?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1a1a?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=39d353)
+![MCP](https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logoColor=39d353)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=39d353)
 
----
+<br/>
 
+```bash
+matheus@mentor-ia:~$ stats --user matheus
 ```
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenriquePrates&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&langs_count=8)
+![stats](https://github-readme-stats.vercel.app/api?username=MatheusHenriquePrates&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&hide=contribs,prs&include_all_commits=true)
+
+<br/>
+
+```bash
 matheus@mentor-ia:~$ contact
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-prates-586328234/)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:mathues12398henrique@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353)](https://www.linkedin.com/in/matheus-henrique-prates-586328234/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353)](mailto:mathues12398henrique@gmail.com)
 
-```
+<br/>
+
+```bash
 matheus@mentor-ia:~$ _
 ```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:0d1117&height=80&section=footer&animation=fadeIn" alt="footer" />
+
+</div>
+entes de IA e integrações com WhatsApp pra dezenas
+de empresas.
+
+Antes disso passei por sistemas em .NET, automação CUPS em rede e
+projetos próprios de PDV e gestão escolar.
+
+<br/>
+
+```bash
+matheus@mentor-ia:~$ ls stack/
+```
+
+**backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=39d353)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39d353)
+![Fastify](https://img.shields.io/badge/Fastify-0d1117?style=for-the-badge&logo=fastify&logoColor=39d353)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=39d353)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=39d353)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39d353)
+
+**frontend**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=39d353)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=39d353)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=39d353)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=39d353)
+
+**dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=39d353)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=39d353)
+![MSSQL](https://img.shields.io/badge/MSSQL-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=39d353)
+![DuckDB](https://img.shields.io/badge/DuckDB-0d1117?style=for-the-badge&logo=duckdb&logoColor=39d353)
+
+**infra**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39d353)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=39d353)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=39d353)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39d353)
+![WireGuard](https://img.shields.io/badge/WireGuard-0d1117?style=for-the-badge&logo=wireguard&logoColor=39d353)
+
+**ia**
+
+![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=39d353)
+![MCP](https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logoColor=39d353)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logoColor=39d353)
+
+<br/>
+
+```bash
+matheus@mentor-ia:~$ stats --user matheus
+```
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenriquePrates&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&langs_count=8)
+![stats](https://github-readme-stats.vercel.app/api?username=MatheusHenriquePrates&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&hide=contribs,prs&include_all_commits=true)
+
+<br/>
+
+```bash
+matheus@mentor-ia:~$ contact
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39d353)](https://www.linkedin.com/in/matheus-henrique-prates-586328234/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39d353)](mailto:mathues12398henrique@gmail.com)
+
+<br/>
+
+```bash
+matheus@mentor-ia:~$ _
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:0d1117&height=80&section=footer&animation=fadeIn" alt="footer" />
+
+</div>
