@@ -53,6 +53,16 @@ matheus@devops:~$ ls stack/
 ![Claude](https://img.shields.io/badge/-Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=39d353) ![MCP](https://img.shields.io/badge/-MCP-0d1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=39d353) ![LangGraph](https://img.shields.io/badge/-LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=39d353)
 
 ```bash
+matheus@devops:~$ ls scripts/
+```
+
+- [**k3s-daily-cleanup**](https://github.com/MatheusHenriquePrates/k3s-daily-cleanup) - limpeza diária de pods terminados, imagens containerd e logs antigos do K3s
+- [**linux-vps-cleanup-daily**](https://github.com/MatheusHenriquePrates/linux-vps-cleanup-daily) - rotina diária pra VPS Linux que roda Docker e/ou K3s, libera espaço sem mexer em workload ativo
+- [**docker-frequent-cleanup**](https://github.com/MatheusHenriquePrates/docker-frequent-cleanup) - cleanup a cada 30 minutos pra host que builda muita imagem Docker
+- [**fix-k3s-docker-bridge**](https://github.com/MatheusHenriquePrates/fix-k3s-docker-bridge) - fix one-shot pra incompatibilidade silenciosa K3s + Docker bridge (kube-router FORWARD DROP)
+- [**puppeteer-grafana-screenshot**](https://github.com/MatheusHenriquePrates/puppeteer-grafana-screenshot) - screenshot automatizado de painel Grafana via Puppeteer pra incluir em relatório
+
+```bash
 matheus@devops:~$ stats --user matheus
 ```
 
@@ -108,6 +118,16 @@ matheus@devops:~$ ls stack/
 **backend**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=39d353) ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=39d353) ![.NET](https://img.shields.io/badge/-.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=39d353) ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=39d353)
+
+```bash
+matheus@devops:~$ ls scripts/
+```
+
+- [**k3s-daily-cleanup**](https://github.com/MatheusHenriquePrates/k3s-daily-cleanup) - daily cleanup for terminated pods, containerd images and old logs on K3s
+- [**linux-vps-cleanup-daily**](https://github.com/MatheusHenriquePrates/linux-vps-cleanup-daily) - daily cleanup routine for Linux VPS running Docker and/or K3s, never touches active workloads
+- [**docker-frequent-cleanup**](https://github.com/MatheusHenriquePrates/docker-frequent-cleanup) - every-30-minutes cleanup for hosts that build a lot of Docker images
+- [**fix-k3s-docker-bridge**](https://github.com/MatheusHenriquePrates/fix-k3s-docker-bridge) - one-shot fix for the silent K3s + Docker bridge issue (kube-router FORWARD DROP)
+- [**puppeteer-grafana-screenshot**](https://github.com/MatheusHenriquePrates/puppeteer-grafana-screenshot) - automated Grafana dashboard screenshot via Puppeteer for reports
 
 ```bash
 matheus@devops:~$ cat now.txt
