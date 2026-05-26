@@ -64,7 +64,6 @@ matheus@mentor-ia:~$ stats --user matheus
 ```
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenriquePrates&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&langs_count=8" height="170" />
   <img src="https://streak-stats.demolab.com?user=MatheusHenriquePrates&theme=github-dark&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353" height="170" />
 </p>
 
