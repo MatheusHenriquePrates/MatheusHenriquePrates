@@ -67,7 +67,8 @@ matheus@devops:~$ stats --user matheus
 ```
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MatheusHenriquePrates&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=39D353&sideNums=C9D1D9" />
+ <img src="https://github-readme-stats.vercel.app/api?username=MatheusHenriquePrates&show_icons=true&hide=contribs&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenriquePrates&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" />
 </p>
 
 ```bash
