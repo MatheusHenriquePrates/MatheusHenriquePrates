@@ -8,7 +8,9 @@
   <a href="mailto:mathues12398henrique@gmail.com"><img src="https://img.shields.io/badge/e--mail-fale_comigo-39d353?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
-<h3 align="center">Em produção</h3>
+<p align="center">
+  <img src="./assets/titulo-producao.svg" width="100%" alt="Em produção">
+</p>
 
 <p align="center">
   <a href="https://matheusprates.com"><img src="./assets/card-marketing.svg" width="49%" alt="Plataforma de marketing com IA"></a>
@@ -17,15 +19,18 @@
   <a href="https://matheusprates.com"><img src="./assets/card-pdv.svg" width="49%" alt="PDV com NFC-e"></a>
 </p>
 
-<h3 align="center">Stack</h3>
-
 <p align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Claude, OpenAI, agentes de IA, n8n, Node.js, TypeScript, Python, Java, React, Next.js, React Native, PostgreSQL, Docker, Kubernetes">
+  <img src="./assets/titulo-stack.svg" width="100%" alt="Stack">
+  <img src="./assets/stack.svg" width="100%" alt="Claude, OpenAI, MCP, n8n, LangChain, Node.js, TypeScript, Python, Java, Spring Boot, NestJS, React, Next.js, PostgreSQL, Redis, Docker, Kubernetes, Nginx, Linux, Cloudflare, GitHub Actions">
 </p>
 
-<h3 align="center">Contribuições</h3>
+<p align="center">
+  <img src="./assets/titulo-numeros.svg" width="100%" alt="Números ao vivo">
+  <img src="https://raw.githubusercontent.com/MatheusHenriquePrates/MatheusHenriquePrates/output/numeros.svg" width="100%" alt="Contribuições no último ano, nos últimos 30 dias, sequência de dias e ritmo diário, atualizados todo dia">
+</p>
 
 <p align="center">
+  <img src="./assets/titulo-contribuicoes.svg" width="100%" alt="Contribuições">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusHenriquePrates/MatheusHenriquePrates/output/cobrinha-escura.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusHenriquePrates/MatheusHenriquePrates/output/cobrinha.svg">
