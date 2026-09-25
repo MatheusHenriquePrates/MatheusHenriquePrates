@@ -7,7 +7,7 @@ on:
     - cron: "17 6 * * *"
   workflow_dispatch:
   push:
-    branches: [main, proposta]
+    branches: [main]
     paths: [".github/workflows/perfil-ao-vivo.yml", ".github/scripts/**", "assets/fontes/**"]
 
 permissions:
